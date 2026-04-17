@@ -1,0 +1,1001 @@
+STORE_ID,CITY,REGION,COUNTRY,MANAGER_EMAIL
+1,City_0,LATAM,Brazil,latam_lead@company.com
+2,Metro_1,North America,USA,north_america_lead@company.com
+3,Metro_2,North America,USA,north_america_lead@company.com
+4,Metro_3,LATAM,Brazil,latam_lead@company.com
+5,City_4,LATAM,Brazil,latam_lead@company.com
+6,City_5,APAC,Japan,apac_lead@company.com
+7,City_6,LATAM,Brazil,latam_lead@company.com
+8,Metro_7,LATAM,Brazil,latam_lead@company.com
+9,Metro_8,LATAM,Brazil,latam_lead@company.com
+10,Metro_9,APAC,Japan,apac_lead@company.com
+11,Metro_10,North America,USA,north_america_lead@company.com
+12,Metro_11,LATAM,Brazil,latam_lead@company.com
+13,City_12,North America,USA,north_america_lead@company.com
+14,City_13,LATAM,Brazil,latam_lead@company.com
+15,City_14,North America,USA,north_america_lead@company.com
+16,City_15,North America,USA,north_america_lead@company.com
+17,Town_16,APAC,Japan,apac_lead@company.com
+18,Metro_17,APAC,Japan,apac_lead@company.com
+19,Metro_18,APAC,Japan,apac_lead@company.com
+20,Metro_19,APAC,Japan,apac_lead@company.com
+21,Metro_20,North America,USA,north_america_lead@company.com
+22,Metro_21,LATAM,Brazil,latam_lead@company.com
+23,Metro_22,EMEA,Germany,emea_lead@company.com
+24,Metro_23,North America,USA,north_america_lead@company.com
+25,Town_24,APAC,Japan,apac_lead@company.com
+26,Town_25,APAC,Japan,apac_lead@company.com
+27,City_26,LATAM,Brazil,latam_lead@company.com
+28,Town_27,APAC,Japan,apac_lead@company.com
+29,Town_28,APAC,Japan,apac_lead@company.com
+30,Metro_29,North America,USA,north_america_lead@company.com
+31,Metro_30,LATAM,Brazil,latam_lead@company.com
+32,City_31,North America,USA,north_america_lead@company.com
+33,Town_32,LATAM,Brazil,latam_lead@company.com
+34,Metro_33,EMEA,Germany,emea_lead@company.com
+35,Metro_34,LATAM,Brazil,latam_lead@company.com
+36,City_35,LATAM,Brazil,latam_lead@company.com
+37,City_36,EMEA,Germany,emea_lead@company.com
+38,Metro_37,LATAM,Brazil,latam_lead@company.com
+39,Metro_38,APAC,Japan,apac_lead@company.com
+40,Town_39,LATAM,Brazil,latam_lead@company.com
+41,City_40,APAC,Japan,apac_lead@company.com
+42,City_41,APAC,Japan,apac_lead@company.com
+43,Metro_42,LATAM,Brazil,latam_lead@company.com
+44,Metro_43,EMEA,Germany,emea_lead@company.com
+45,Metro_44,EMEA,Germany,emea_lead@company.com
+46,City_45,EMEA,Germany,emea_lead@company.com
+47,Metro_46,LATAM,Brazil,latam_lead@company.com
+48,Town_47,APAC,Japan,apac_lead@company.com
+49,Metro_48,EMEA,Germany,emea_lead@company.com
+50,City_49,EMEA,Germany,emea_lead@company.com
+51,City_50,EMEA,Germany,emea_lead@company.com
+52,City_51,APAC,Japan,apac_lead@company.com
+53,Metro_52,LATAM,Brazil,latam_lead@company.com
+54,Town_53,LATAM,Brazil,latam_lead@company.com
+55,Town_54,APAC,Japan,apac_lead@company.com
+56,Metro_55,North America,USA,north_america_lead@company.com
+57,Metro_56,North America,USA,north_america_lead@company.com
+58,Metro_57,North America,USA,north_america_lead@company.com
+59,City_58,LATAM,Brazil,latam_lead@company.com
+60,Metro_59,LATAM,Brazil,latam_lead@company.com
+61,City_60,APAC,Japan,apac_lead@company.com
+62,Metro_61,LATAM,Brazil,latam_lead@company.com
+63,Town_62,LATAM,Brazil,latam_lead@company.com
+64,Metro_63,LATAM,Brazil,latam_lead@company.com
+65,City_64,North America,USA,north_america_lead@company.com
+66,Metro_65,North America,USA,north_america_lead@company.com
+67,City_66,APAC,Japan,apac_lead@company.com
+68,Metro_67,EMEA,Germany,emea_lead@company.com
+69,Metro_68,North America,USA,north_america_lead@company.com
+70,City_69,LATAM,Brazil,latam_lead@company.com
+71,Metro_70,EMEA,Germany,emea_lead@company.com
+72,City_71,LATAM,Brazil,latam_lead@company.com
+73,City_72,North America,USA,north_america_lead@company.com
+74,Metro_73,APAC,Japan,apac_lead@company.com
+75,Metro_74,LATAM,Brazil,latam_lead@company.com
+76,Town_75,APAC,Japan,apac_lead@company.com
+77,Metro_76,North America,USA,north_america_lead@company.com
+78,Town_77,LATAM,Brazil,latam_lead@company.com
+79,City_78,APAC,Japan,apac_lead@company.com
+80,Metro_79,LATAM,Brazil,latam_lead@company.com
+81,City_80,LATAM,Brazil,latam_lead@company.com
+82,Metro_81,North America,USA,north_america_lead@company.com
+83,City_82,APAC,Japan,apac_lead@company.com
+84,Metro_83,LATAM,Brazil,latam_lead@company.com
+85,City_84,North America,USA,north_america_lead@company.com
+86,Town_85,APAC,Japan,apac_lead@company.com
+87,Town_86,North America,USA,north_america_lead@company.com
+88,City_87,EMEA,Germany,emea_lead@company.com
+89,City_88,APAC,Japan,apac_lead@company.com
+90,Metro_89,North America,USA,north_america_lead@company.com
+91,Metro_90,LATAM,Brazil,latam_lead@company.com
+92,City_91,LATAM,Brazil,latam_lead@company.com
+93,City_92,North America,USA,north_america_lead@company.com
+94,Town_93,LATAM,Brazil,latam_lead@company.com
+95,Metro_94,EMEA,Germany,emea_lead@company.com
+96,Town_95,EMEA,Germany,emea_lead@company.com
+97,Metro_96,North America,USA,north_america_lead@company.com
+98,Town_97,LATAM,Brazil,latam_lead@company.com
+99,Metro_98,North America,USA,north_america_lead@company.com
+100,Metro_99,North America,USA,north_america_lead@company.com
+101,Town_100,APAC,Japan,apac_lead@company.com
+102,Metro_101,North America,USA,north_america_lead@company.com
+103,City_102,LATAM,Brazil,latam_lead@company.com
+104,Town_103,EMEA,Germany,emea_lead@company.com
+105,Metro_104,North America,USA,north_america_lead@company.com
+106,Metro_105,North America,USA,north_america_lead@company.com
+107,City_106,LATAM,Brazil,latam_lead@company.com
+108,Metro_107,LATAM,Brazil,latam_lead@company.com
+109,Metro_108,North America,USA,north_america_lead@company.com
+110,City_109,EMEA,Germany,emea_lead@company.com
+111,Town_110,North America,USA,north_america_lead@company.com
+112,City_111,APAC,Japan,apac_lead@company.com
+113,City_112,EMEA,Germany,emea_lead@company.com
+114,Metro_113,EMEA,Germany,emea_lead@company.com
+115,Town_114,LATAM,Brazil,latam_lead@company.com
+116,Metro_115,LATAM,Brazil,latam_lead@company.com
+117,Metro_116,EMEA,Germany,emea_lead@company.com
+118,Metro_117,North America,USA,north_america_lead@company.com
+119,Metro_118,LATAM,Brazil,latam_lead@company.com
+120,Town_119,LATAM,Brazil,latam_lead@company.com
+121,Town_120,EMEA,Germany,emea_lead@company.com
+122,Metro_121,LATAM,Brazil,latam_lead@company.com
+123,City_122,North America,USA,north_america_lead@company.com
+124,City_123,LATAM,Brazil,latam_lead@company.com
+125,Metro_124,LATAM,Brazil,latam_lead@company.com
+126,Metro_125,EMEA,Germany,emea_lead@company.com
+127,Metro_126,LATAM,Brazil,latam_lead@company.com
+128,Metro_127,EMEA,Germany,emea_lead@company.com
+129,City_128,North America,USA,north_america_lead@company.com
+130,Metro_129,North America,USA,north_america_lead@company.com
+131,City_130,EMEA,Germany,emea_lead@company.com
+132,Metro_131,North America,USA,north_america_lead@company.com
+133,City_132,APAC,Japan,apac_lead@company.com
+134,Metro_133,EMEA,Germany,emea_lead@company.com
+135,Metro_134,EMEA,Germany,emea_lead@company.com
+136,Metro_135,North America,USA,north_america_lead@company.com
+137,Metro_136,EMEA,Germany,emea_lead@company.com
+138,Metro_137,LATAM,Brazil,latam_lead@company.com
+139,Metro_138,LATAM,Brazil,latam_lead@company.com
+140,City_139,EMEA,Germany,emea_lead@company.com
+141,Metro_140,North America,USA,north_america_lead@company.com
+142,Town_141,LATAM,Brazil,latam_lead@company.com
+143,City_142,EMEA,Germany,emea_lead@company.com
+144,Metro_143,LATAM,Brazil,latam_lead@company.com
+145,Metro_144,LATAM,Brazil,latam_lead@company.com
+146,Town_145,LATAM,Brazil,latam_lead@company.com
+147,City_146,North America,USA,north_america_lead@company.com
+148,City_147,LATAM,Brazil,latam_lead@company.com
+149,Metro_148,LATAM,Brazil,latam_lead@company.com
+150,Metro_149,LATAM,Brazil,latam_lead@company.com
+151,City_150,LATAM,Brazil,latam_lead@company.com
+152,Town_151,LATAM,Brazil,latam_lead@company.com
+153,Metro_152,LATAM,Brazil,latam_lead@company.com
+154,Metro_153,APAC,Japan,apac_lead@company.com
+155,City_154,North America,USA,north_america_lead@company.com
+156,Metro_155,North America,USA,north_america_lead@company.com
+157,Town_156,LATAM,Brazil,latam_lead@company.com
+158,City_157,EMEA,Germany,emea_lead@company.com
+159,Town_158,APAC,Japan,apac_lead@company.com
+160,City_159,North America,USA,north_america_lead@company.com
+161,City_160,LATAM,Brazil,latam_lead@company.com
+162,City_161,APAC,Japan,apac_lead@company.com
+163,Town_162,APAC,Japan,apac_lead@company.com
+164,Town_163,North America,USA,north_america_lead@company.com
+165,Metro_164,APAC,Japan,apac_lead@company.com
+166,Metro_165,LATAM,Brazil,latam_lead@company.com
+167,Town_166,APAC,Japan,apac_lead@company.com
+168,Metro_167,EMEA,Germany,emea_lead@company.com
+169,City_168,LATAM,Brazil,latam_lead@company.com
+170,Town_169,LATAM,Brazil,latam_lead@company.com
+171,Metro_170,LATAM,Brazil,latam_lead@company.com
+172,Town_171,North America,USA,north_america_lead@company.com
+173,Metro_172,EMEA,Germany,emea_lead@company.com
+174,City_173,LATAM,Brazil,latam_lead@company.com
+175,City_174,EMEA,Germany,emea_lead@company.com
+176,City_175,LATAM,Brazil,latam_lead@company.com
+177,Metro_176,LATAM,Brazil,latam_lead@company.com
+178,Metro_177,LATAM,Brazil,latam_lead@company.com
+179,Metro_178,North America,USA,north_america_lead@company.com
+180,City_179,EMEA,Germany,emea_lead@company.com
+181,City_180,EMEA,Germany,emea_lead@company.com
+182,Metro_181,EMEA,Germany,emea_lead@company.com
+183,Town_182,EMEA,Germany,emea_lead@company.com
+184,Town_183,LATAM,Brazil,latam_lead@company.com
+185,Metro_184,APAC,Japan,apac_lead@company.com
+186,Metro_185,LATAM,Brazil,latam_lead@company.com
+187,City_186,North America,USA,north_america_lead@company.com
+188,Town_187,LATAM,Brazil,latam_lead@company.com
+189,Town_188,LATAM,Brazil,latam_lead@company.com
+190,Town_189,North America,USA,north_america_lead@company.com
+191,Metro_190,EMEA,Germany,emea_lead@company.com
+192,Metro_191,LATAM,Brazil,latam_lead@company.com
+193,City_192,North America,USA,north_america_lead@company.com
+194,Metro_193,APAC,Japan,apac_lead@company.com
+195,Metro_194,LATAM,Brazil,latam_lead@company.com
+196,City_195,LATAM,Brazil,latam_lead@company.com
+197,Metro_196,North America,USA,north_america_lead@company.com
+198,City_197,North America,USA,north_america_lead@company.com
+199,Metro_198,North America,USA,north_america_lead@company.com
+200,Town_199,EMEA,Germany,emea_lead@company.com
+201,Metro_200,LATAM,Brazil,latam_lead@company.com
+202,Metro_201,APAC,Japan,apac_lead@company.com
+203,Metro_202,North America,USA,north_america_lead@company.com
+204,Metro_203,LATAM,Brazil,latam_lead@company.com
+205,Metro_204,EMEA,Germany,emea_lead@company.com
+206,Town_205,North America,USA,north_america_lead@company.com
+207,Town_206,EMEA,Germany,emea_lead@company.com
+208,Town_207,EMEA,Germany,emea_lead@company.com
+209,Metro_208,APAC,Japan,apac_lead@company.com
+210,City_209,APAC,Japan,apac_lead@company.com
+211,Metro_210,EMEA,Germany,emea_lead@company.com
+212,Town_211,EMEA,Germany,emea_lead@company.com
+213,Town_212,LATAM,Brazil,latam_lead@company.com
+214,Metro_213,LATAM,Brazil,latam_lead@company.com
+215,City_214,North America,USA,north_america_lead@company.com
+216,Metro_215,LATAM,Brazil,latam_lead@company.com
+217,Metro_216,EMEA,Germany,emea_lead@company.com
+218,Metro_217,EMEA,Germany,emea_lead@company.com
+219,Town_218,North America,USA,north_america_lead@company.com
+220,City_219,LATAM,Brazil,latam_lead@company.com
+221,Town_220,LATAM,Brazil,latam_lead@company.com
+222,City_221,North America,USA,north_america_lead@company.com
+223,Metro_222,APAC,Japan,apac_lead@company.com
+224,Metro_223,EMEA,Germany,emea_lead@company.com
+225,Metro_224,LATAM,Brazil,latam_lead@company.com
+226,City_225,LATAM,Brazil,latam_lead@company.com
+227,City_226,EMEA,Germany,emea_lead@company.com
+228,City_227,LATAM,Brazil,latam_lead@company.com
+229,City_228,North America,USA,north_america_lead@company.com
+230,Metro_229,LATAM,Brazil,latam_lead@company.com
+231,Metro_230,EMEA,Germany,emea_lead@company.com
+232,Metro_231,APAC,Japan,apac_lead@company.com
+233,City_232,LATAM,Brazil,latam_lead@company.com
+234,Metro_233,North America,USA,north_america_lead@company.com
+235,Metro_234,North America,USA,north_america_lead@company.com
+236,Metro_235,LATAM,Brazil,latam_lead@company.com
+237,Metro_236,APAC,Japan,apac_lead@company.com
+238,Metro_237,EMEA,Germany,emea_lead@company.com
+239,Metro_238,North America,USA,north_america_lead@company.com
+240,Metro_239,EMEA,Germany,emea_lead@company.com
+241,Metro_240,North America,USA,north_america_lead@company.com
+242,Town_241,APAC,Japan,apac_lead@company.com
+243,City_242,North America,USA,north_america_lead@company.com
+244,City_243,EMEA,Germany,emea_lead@company.com
+245,Metro_244,LATAM,Brazil,latam_lead@company.com
+246,Metro_245,LATAM,Brazil,latam_lead@company.com
+247,City_246,LATAM,Brazil,latam_lead@company.com
+248,Metro_247,North America,USA,north_america_lead@company.com
+249,Town_248,LATAM,Brazil,latam_lead@company.com
+250,Town_249,APAC,Japan,apac_lead@company.com
+251,Town_250,North America,USA,north_america_lead@company.com
+252,Metro_251,North America,USA,north_america_lead@company.com
+253,Metro_252,North America,USA,north_america_lead@company.com
+254,Metro_253,LATAM,Brazil,latam_lead@company.com
+255,Metro_254,North America,USA,north_america_lead@company.com
+256,Town_255,LATAM,Brazil,latam_lead@company.com
+257,Metro_256,LATAM,Brazil,latam_lead@company.com
+258,Metro_257,LATAM,Brazil,latam_lead@company.com
+259,Metro_258,EMEA,Germany,emea_lead@company.com
+260,Town_259,North America,USA,north_america_lead@company.com
+261,Metro_260,LATAM,Brazil,latam_lead@company.com
+262,Town_261,LATAM,Brazil,latam_lead@company.com
+263,Metro_262,LATAM,Brazil,latam_lead@company.com
+264,Metro_263,EMEA,Germany,emea_lead@company.com
+265,Metro_264,APAC,Japan,apac_lead@company.com
+266,Town_265,LATAM,Brazil,latam_lead@company.com
+267,City_266,LATAM,Brazil,latam_lead@company.com
+268,City_267,APAC,Japan,apac_lead@company.com
+269,City_268,LATAM,Brazil,latam_lead@company.com
+270,Metro_269,LATAM,Brazil,latam_lead@company.com
+271,City_270,LATAM,Brazil,latam_lead@company.com
+272,Metro_271,LATAM,Brazil,latam_lead@company.com
+273,Metro_272,LATAM,Brazil,latam_lead@company.com
+274,Metro_273,LATAM,Brazil,latam_lead@company.com
+275,Town_274,North America,USA,north_america_lead@company.com
+276,Town_275,North America,USA,north_america_lead@company.com
+277,Metro_276,North America,USA,north_america_lead@company.com
+278,City_277,LATAM,Brazil,latam_lead@company.com
+279,Metro_278,North America,USA,north_america_lead@company.com
+280,Town_279,APAC,Japan,apac_lead@company.com
+281,Metro_280,APAC,Japan,apac_lead@company.com
+282,Metro_281,North America,USA,north_america_lead@company.com
+283,Metro_282,LATAM,Brazil,latam_lead@company.com
+284,Metro_283,LATAM,Brazil,latam_lead@company.com
+285,Metro_284,APAC,Japan,apac_lead@company.com
+286,City_285,EMEA,Germany,emea_lead@company.com
+287,City_286,APAC,Japan,apac_lead@company.com
+288,Metro_287,LATAM,Brazil,latam_lead@company.com
+289,Metro_288,LATAM,Brazil,latam_lead@company.com
+290,Metro_289,APAC,Japan,apac_lead@company.com
+291,Metro_290,EMEA,Germany,emea_lead@company.com
+292,Metro_291,LATAM,Brazil,latam_lead@company.com
+293,Metro_292,North America,USA,north_america_lead@company.com
+294,Metro_293,North America,USA,north_america_lead@company.com
+295,Metro_294,EMEA,Germany,emea_lead@company.com
+296,Metro_295,APAC,Japan,apac_lead@company.com
+297,Metro_296,EMEA,Germany,emea_lead@company.com
+298,Metro_297,LATAM,Brazil,latam_lead@company.com
+299,Metro_298,LATAM,Brazil,latam_lead@company.com
+300,Metro_299,EMEA,Germany,emea_lead@company.com
+301,Metro_300,LATAM,Brazil,latam_lead@company.com
+302,Metro_301,North America,USA,north_america_lead@company.com
+303,Metro_302,LATAM,Brazil,latam_lead@company.com
+304,Metro_303,LATAM,Brazil,latam_lead@company.com
+305,Metro_304,LATAM,Brazil,latam_lead@company.com
+306,Metro_305,APAC,Japan,apac_lead@company.com
+307,Metro_306,LATAM,Brazil,latam_lead@company.com
+308,Metro_307,APAC,Japan,apac_lead@company.com
+309,Town_308,LATAM,Brazil,latam_lead@company.com
+310,City_309,North America,USA,north_america_lead@company.com
+311,Metro_310,EMEA,Germany,emea_lead@company.com
+312,Metro_311,EMEA,Germany,emea_lead@company.com
+313,Metro_312,North America,USA,north_america_lead@company.com
+314,Town_313,LATAM,Brazil,latam_lead@company.com
+315,City_314,EMEA,Germany,emea_lead@company.com
+316,Metro_315,North America,USA,north_america_lead@company.com
+317,City_316,LATAM,Brazil,latam_lead@company.com
+318,City_317,North America,USA,north_america_lead@company.com
+319,Metro_318,APAC,Japan,apac_lead@company.com
+320,City_319,North America,USA,north_america_lead@company.com
+321,City_320,LATAM,Brazil,latam_lead@company.com
+322,Town_321,LATAM,Brazil,latam_lead@company.com
+323,Metro_322,EMEA,Germany,emea_lead@company.com
+324,Town_323,EMEA,Germany,emea_lead@company.com
+325,Town_324,LATAM,Brazil,latam_lead@company.com
+326,City_325,North America,USA,north_america_lead@company.com
+327,City_326,LATAM,Brazil,latam_lead@company.com
+328,Metro_327,LATAM,Brazil,latam_lead@company.com
+329,Metro_328,North America,USA,north_america_lead@company.com
+330,Town_329,LATAM,Brazil,latam_lead@company.com
+331,Metro_330,LATAM,Brazil,latam_lead@company.com
+332,Metro_331,LATAM,Brazil,latam_lead@company.com
+333,Metro_332,LATAM,Brazil,latam_lead@company.com
+334,Metro_333,North America,USA,north_america_lead@company.com
+335,Metro_334,LATAM,Brazil,latam_lead@company.com
+336,Metro_335,North America,USA,north_america_lead@company.com
+337,Metro_336,EMEA,Germany,emea_lead@company.com
+338,Metro_337,APAC,Japan,apac_lead@company.com
+339,City_338,North America,USA,north_america_lead@company.com
+340,City_339,North America,USA,north_america_lead@company.com
+341,Town_340,LATAM,Brazil,latam_lead@company.com
+342,Metro_341,North America,USA,north_america_lead@company.com
+343,Metro_342,APAC,Japan,apac_lead@company.com
+344,Town_343,EMEA,Germany,emea_lead@company.com
+345,Metro_344,EMEA,Germany,emea_lead@company.com
+346,Metro_345,LATAM,Brazil,latam_lead@company.com
+347,Metro_346,LATAM,Brazil,latam_lead@company.com
+348,City_347,North America,USA,north_america_lead@company.com
+349,Metro_348,LATAM,Brazil,latam_lead@company.com
+350,City_349,North America,USA,north_america_lead@company.com
+351,Metro_350,LATAM,Brazil,latam_lead@company.com
+352,City_351,EMEA,Germany,emea_lead@company.com
+353,Town_352,LATAM,Brazil,latam_lead@company.com
+354,Metro_353,LATAM,Brazil,latam_lead@company.com
+355,City_354,North America,USA,north_america_lead@company.com
+356,Metro_355,LATAM,Brazil,latam_lead@company.com
+357,Metro_356,North America,USA,north_america_lead@company.com
+358,Metro_357,North America,USA,north_america_lead@company.com
+359,City_358,LATAM,Brazil,latam_lead@company.com
+360,Metro_359,LATAM,Brazil,latam_lead@company.com
+361,City_360,North America,USA,north_america_lead@company.com
+362,Metro_361,EMEA,Germany,emea_lead@company.com
+363,City_362,LATAM,Brazil,latam_lead@company.com
+364,Metro_363,LATAM,Brazil,latam_lead@company.com
+365,Metro_364,LATAM,Brazil,latam_lead@company.com
+366,City_365,EMEA,Germany,emea_lead@company.com
+367,Metro_366,LATAM,Brazil,latam_lead@company.com
+368,Metro_367,LATAM,Brazil,latam_lead@company.com
+369,City_368,LATAM,Brazil,latam_lead@company.com
+370,City_369,EMEA,Germany,emea_lead@company.com
+371,Metro_370,EMEA,Germany,emea_lead@company.com
+372,City_371,North America,USA,north_america_lead@company.com
+373,City_372,LATAM,Brazil,latam_lead@company.com
+374,Metro_373,EMEA,Germany,emea_lead@company.com
+375,Metro_374,LATAM,Brazil,latam_lead@company.com
+376,Metro_375,North America,USA,north_america_lead@company.com
+377,Town_376,LATAM,Brazil,latam_lead@company.com
+378,Town_377,LATAM,Brazil,latam_lead@company.com
+379,Metro_378,LATAM,Brazil,latam_lead@company.com
+380,Metro_379,LATAM,Brazil,latam_lead@company.com
+381,Metro_380,North America,USA,north_america_lead@company.com
+382,Metro_381,APAC,Japan,apac_lead@company.com
+383,Town_382,North America,USA,north_america_lead@company.com
+384,Town_383,LATAM,Brazil,latam_lead@company.com
+385,Metro_384,EMEA,Germany,emea_lead@company.com
+386,City_385,LATAM,Brazil,latam_lead@company.com
+387,City_386,LATAM,Brazil,latam_lead@company.com
+388,City_387,LATAM,Brazil,latam_lead@company.com
+389,Town_388,EMEA,Germany,emea_lead@company.com
+390,Metro_389,LATAM,Brazil,latam_lead@company.com
+391,Metro_390,APAC,Japan,apac_lead@company.com
+392,City_391,LATAM,Brazil,latam_lead@company.com
+393,Town_392,North America,USA,north_america_lead@company.com
+394,Town_393,EMEA,Germany,emea_lead@company.com
+395,Town_394,LATAM,Brazil,latam_lead@company.com
+396,Metro_395,EMEA,Germany,emea_lead@company.com
+397,Metro_396,LATAM,Brazil,latam_lead@company.com
+398,City_397,North America,USA,north_america_lead@company.com
+399,City_398,North America,USA,north_america_lead@company.com
+400,Metro_399,APAC,Japan,apac_lead@company.com
+401,Metro_400,LATAM,Brazil,latam_lead@company.com
+402,Metro_401,LATAM,Brazil,latam_lead@company.com
+403,Metro_402,LATAM,Brazil,latam_lead@company.com
+404,Metro_403,APAC,Japan,apac_lead@company.com
+405,Metro_404,North America,USA,north_america_lead@company.com
+406,Metro_405,APAC,Japan,apac_lead@company.com
+407,Metro_406,LATAM,Brazil,latam_lead@company.com
+408,Metro_407,APAC,Japan,apac_lead@company.com
+409,City_408,LATAM,Brazil,latam_lead@company.com
+410,Metro_409,LATAM,Brazil,latam_lead@company.com
+411,Town_410,APAC,Japan,apac_lead@company.com
+412,Town_411,APAC,Japan,apac_lead@company.com
+413,Metro_412,North America,USA,north_america_lead@company.com
+414,Metro_413,North America,USA,north_america_lead@company.com
+415,Town_414,LATAM,Brazil,latam_lead@company.com
+416,Town_415,LATAM,Brazil,latam_lead@company.com
+417,City_416,LATAM,Brazil,latam_lead@company.com
+418,Metro_417,North America,USA,north_america_lead@company.com
+419,Metro_418,APAC,Japan,apac_lead@company.com
+420,Town_419,LATAM,Brazil,latam_lead@company.com
+421,Metro_420,North America,USA,north_america_lead@company.com
+422,Metro_421,APAC,Japan,apac_lead@company.com
+423,Metro_422,LATAM,Brazil,latam_lead@company.com
+424,Metro_423,APAC,Japan,apac_lead@company.com
+425,Metro_424,EMEA,Germany,emea_lead@company.com
+426,Metro_425,EMEA,Germany,emea_lead@company.com
+427,Metro_426,APAC,Japan,apac_lead@company.com
+428,Metro_427,LATAM,Brazil,latam_lead@company.com
+429,Metro_428,LATAM,Brazil,latam_lead@company.com
+430,Metro_429,EMEA,Germany,emea_lead@company.com
+431,Metro_430,North America,USA,north_america_lead@company.com
+432,Metro_431,EMEA,Germany,emea_lead@company.com
+433,Metro_432,APAC,Japan,apac_lead@company.com
+434,City_433,EMEA,Germany,emea_lead@company.com
+435,City_434,EMEA,Germany,emea_lead@company.com
+436,Metro_435,LATAM,Brazil,latam_lead@company.com
+437,Metro_436,EMEA,Germany,emea_lead@company.com
+438,Town_437,EMEA,Germany,emea_lead@company.com
+439,Metro_438,EMEA,Germany,emea_lead@company.com
+440,City_439,LATAM,Brazil,latam_lead@company.com
+441,Metro_440,APAC,Japan,apac_lead@company.com
+442,City_441,EMEA,Germany,emea_lead@company.com
+443,City_442,North America,USA,north_america_lead@company.com
+444,Metro_443,North America,USA,north_america_lead@company.com
+445,Metro_444,APAC,Japan,apac_lead@company.com
+446,City_445,LATAM,Brazil,latam_lead@company.com
+447,Metro_446,LATAM,Brazil,latam_lead@company.com
+448,Town_447,North America,USA,north_america_lead@company.com
+449,Metro_448,LATAM,Brazil,latam_lead@company.com
+450,Metro_449,LATAM,Brazil,latam_lead@company.com
+451,City_450,LATAM,Brazil,latam_lead@company.com
+452,City_451,LATAM,Brazil,latam_lead@company.com
+453,Metro_452,LATAM,Brazil,latam_lead@company.com
+454,Town_453,LATAM,Brazil,latam_lead@company.com
+455,Town_454,LATAM,Brazil,latam_lead@company.com
+456,Metro_455,LATAM,Brazil,latam_lead@company.com
+457,Metro_456,EMEA,Germany,emea_lead@company.com
+458,Metro_457,LATAM,Brazil,latam_lead@company.com
+459,City_458,North America,USA,north_america_lead@company.com
+460,Metro_459,LATAM,Brazil,latam_lead@company.com
+461,Metro_460,LATAM,Brazil,latam_lead@company.com
+462,City_461,LATAM,Brazil,latam_lead@company.com
+463,Metro_462,EMEA,Germany,emea_lead@company.com
+464,City_463,LATAM,Brazil,latam_lead@company.com
+465,Metro_464,North America,USA,north_america_lead@company.com
+466,Metro_465,North America,USA,north_america_lead@company.com
+467,Metro_466,LATAM,Brazil,latam_lead@company.com
+468,Metro_467,LATAM,Brazil,latam_lead@company.com
+469,Metro_468,North America,USA,north_america_lead@company.com
+470,Metro_469,LATAM,Brazil,latam_lead@company.com
+471,Metro_470,North America,USA,north_america_lead@company.com
+472,Metro_471,North America,USA,north_america_lead@company.com
+473,Metro_472,EMEA,Germany,emea_lead@company.com
+474,City_473,LATAM,Brazil,latam_lead@company.com
+475,Metro_474,LATAM,Brazil,latam_lead@company.com
+476,Metro_475,APAC,Japan,apac_lead@company.com
+477,City_476,LATAM,Brazil,latam_lead@company.com
+478,Metro_477,LATAM,Brazil,latam_lead@company.com
+479,Metro_478,North America,USA,north_america_lead@company.com
+480,City_479,APAC,Japan,apac_lead@company.com
+481,City_480,LATAM,Brazil,latam_lead@company.com
+482,City_481,LATAM,Brazil,latam_lead@company.com
+483,City_482,North America,USA,north_america_lead@company.com
+484,Metro_483,LATAM,Brazil,latam_lead@company.com
+485,Metro_484,North America,USA,north_america_lead@company.com
+486,City_485,North America,USA,north_america_lead@company.com
+487,Metro_486,North America,USA,north_america_lead@company.com
+488,City_487,LATAM,Brazil,latam_lead@company.com
+489,Metro_488,LATAM,Brazil,latam_lead@company.com
+490,City_489,LATAM,Brazil,latam_lead@company.com
+491,Metro_490,APAC,Japan,apac_lead@company.com
+492,Metro_491,North America,USA,north_america_lead@company.com
+493,Metro_492,LATAM,Brazil,latam_lead@company.com
+494,Metro_493,North America,USA,north_america_lead@company.com
+495,City_494,North America,USA,north_america_lead@company.com
+496,Town_495,LATAM,Brazil,latam_lead@company.com
+497,Town_496,LATAM,Brazil,latam_lead@company.com
+498,Metro_497,LATAM,Brazil,latam_lead@company.com
+499,City_498,APAC,Japan,apac_lead@company.com
+500,Town_499,LATAM,Brazil,latam_lead@company.com
+501,City_500,LATAM,Brazil,latam_lead@company.com
+502,Metro_501,North America,USA,north_america_lead@company.com
+503,City_502,LATAM,Brazil,latam_lead@company.com
+504,City_503,LATAM,Brazil,latam_lead@company.com
+505,Metro_504,EMEA,Germany,emea_lead@company.com
+506,City_505,North America,USA,north_america_lead@company.com
+507,Metro_506,LATAM,Brazil,latam_lead@company.com
+508,Town_507,LATAM,Brazil,latam_lead@company.com
+509,Metro_508,North America,USA,north_america_lead@company.com
+510,Metro_509,LATAM,Brazil,latam_lead@company.com
+511,City_510,EMEA,Germany,emea_lead@company.com
+512,Town_511,LATAM,Brazil,latam_lead@company.com
+513,City_512,LATAM,Brazil,latam_lead@company.com
+514,Metro_513,North America,USA,north_america_lead@company.com
+515,Metro_514,APAC,Japan,apac_lead@company.com
+516,City_515,LATAM,Brazil,latam_lead@company.com
+517,Metro_516,EMEA,Germany,emea_lead@company.com
+518,Town_517,LATAM,Brazil,latam_lead@company.com
+519,Metro_518,EMEA,Germany,emea_lead@company.com
+520,Town_519,LATAM,Brazil,latam_lead@company.com
+521,Metro_520,North America,USA,north_america_lead@company.com
+522,Metro_521,LATAM,Brazil,latam_lead@company.com
+523,City_522,EMEA,Germany,emea_lead@company.com
+524,City_523,LATAM,Brazil,latam_lead@company.com
+525,Metro_524,LATAM,Brazil,latam_lead@company.com
+526,Metro_525,LATAM,Brazil,latam_lead@company.com
+527,Town_526,LATAM,Brazil,latam_lead@company.com
+528,Metro_527,LATAM,Brazil,latam_lead@company.com
+529,City_528,EMEA,Germany,emea_lead@company.com
+530,Metro_529,North America,USA,north_america_lead@company.com
+531,City_530,North America,USA,north_america_lead@company.com
+532,Metro_531,LATAM,Brazil,latam_lead@company.com
+533,Metro_532,North America,USA,north_america_lead@company.com
+534,Metro_533,EMEA,Germany,emea_lead@company.com
+535,Metro_534,North America,USA,north_america_lead@company.com
+536,Metro_535,LATAM,Brazil,latam_lead@company.com
+537,City_536,APAC,Japan,apac_lead@company.com
+538,Town_537,LATAM,Brazil,latam_lead@company.com
+539,Metro_538,APAC,Japan,apac_lead@company.com
+540,Town_539,LATAM,Brazil,latam_lead@company.com
+541,City_540,LATAM,Brazil,latam_lead@company.com
+542,Metro_541,EMEA,Germany,emea_lead@company.com
+543,City_542,LATAM,Brazil,latam_lead@company.com
+544,Metro_543,LATAM,Brazil,latam_lead@company.com
+545,City_544,APAC,Japan,apac_lead@company.com
+546,Town_545,APAC,Japan,apac_lead@company.com
+547,City_546,LATAM,Brazil,latam_lead@company.com
+548,Town_547,North America,USA,north_america_lead@company.com
+549,Town_548,EMEA,Germany,emea_lead@company.com
+550,Metro_549,APAC,Japan,apac_lead@company.com
+551,Metro_550,North America,USA,north_america_lead@company.com
+552,City_551,LATAM,Brazil,latam_lead@company.com
+553,Metro_552,LATAM,Brazil,latam_lead@company.com
+554,Metro_553,LATAM,Brazil,latam_lead@company.com
+555,City_554,EMEA,Germany,emea_lead@company.com
+556,Town_555,LATAM,Brazil,latam_lead@company.com
+557,Metro_556,LATAM,Brazil,latam_lead@company.com
+558,Metro_557,LATAM,Brazil,latam_lead@company.com
+559,Town_558,EMEA,Germany,emea_lead@company.com
+560,Town_559,EMEA,Germany,emea_lead@company.com
+561,Metro_560,LATAM,Brazil,latam_lead@company.com
+562,Metro_561,LATAM,Brazil,latam_lead@company.com
+563,Metro_562,EMEA,Germany,emea_lead@company.com
+564,Town_563,APAC,Japan,apac_lead@company.com
+565,Town_564,LATAM,Brazil,latam_lead@company.com
+566,Metro_565,LATAM,Brazil,latam_lead@company.com
+567,Metro_566,LATAM,Brazil,latam_lead@company.com
+568,City_567,North America,USA,north_america_lead@company.com
+569,Metro_568,EMEA,Germany,emea_lead@company.com
+570,City_569,LATAM,Brazil,latam_lead@company.com
+571,City_570,LATAM,Brazil,latam_lead@company.com
+572,Metro_571,North America,USA,north_america_lead@company.com
+573,Metro_572,North America,USA,north_america_lead@company.com
+574,Metro_573,APAC,Japan,apac_lead@company.com
+575,Town_574,LATAM,Brazil,latam_lead@company.com
+576,Metro_575,LATAM,Brazil,latam_lead@company.com
+577,Metro_576,APAC,Japan,apac_lead@company.com
+578,Metro_577,LATAM,Brazil,latam_lead@company.com
+579,Metro_578,LATAM,Brazil,latam_lead@company.com
+580,City_579,LATAM,Brazil,latam_lead@company.com
+581,Metro_580,North America,USA,north_america_lead@company.com
+582,Town_581,LATAM,Brazil,latam_lead@company.com
+583,Metro_582,North America,USA,north_america_lead@company.com
+584,Metro_583,LATAM,Brazil,latam_lead@company.com
+585,City_584,APAC,Japan,apac_lead@company.com
+586,Metro_585,LATAM,Brazil,latam_lead@company.com
+587,Metro_586,EMEA,Germany,emea_lead@company.com
+588,City_587,LATAM,Brazil,latam_lead@company.com
+589,Metro_588,LATAM,Brazil,latam_lead@company.com
+590,Metro_589,LATAM,Brazil,latam_lead@company.com
+591,Metro_590,LATAM,Brazil,latam_lead@company.com
+592,City_591,North America,USA,north_america_lead@company.com
+593,Metro_592,LATAM,Brazil,latam_lead@company.com
+594,City_593,APAC,Japan,apac_lead@company.com
+595,Town_594,LATAM,Brazil,latam_lead@company.com
+596,Metro_595,APAC,Japan,apac_lead@company.com
+597,City_596,LATAM,Brazil,latam_lead@company.com
+598,Metro_597,EMEA,Germany,emea_lead@company.com
+599,Metro_598,LATAM,Brazil,latam_lead@company.com
+600,Town_599,EMEA,Germany,emea_lead@company.com
+601,Metro_600,LATAM,Brazil,latam_lead@company.com
+602,Metro_601,LATAM,Brazil,latam_lead@company.com
+603,Metro_602,EMEA,Germany,emea_lead@company.com
+604,City_603,APAC,Japan,apac_lead@company.com
+605,Metro_604,North America,USA,north_america_lead@company.com
+606,Town_605,EMEA,Germany,emea_lead@company.com
+607,Metro_606,APAC,Japan,apac_lead@company.com
+608,Metro_607,North America,USA,north_america_lead@company.com
+609,Metro_608,APAC,Japan,apac_lead@company.com
+610,City_609,North America,USA,north_america_lead@company.com
+611,Town_610,EMEA,Germany,emea_lead@company.com
+612,Metro_611,APAC,Japan,apac_lead@company.com
+613,City_612,EMEA,Germany,emea_lead@company.com
+614,Metro_613,EMEA,Germany,emea_lead@company.com
+615,Metro_614,APAC,Japan,apac_lead@company.com
+616,Metro_615,North America,USA,north_america_lead@company.com
+617,Town_616,EMEA,Germany,emea_lead@company.com
+618,Metro_617,LATAM,Brazil,latam_lead@company.com
+619,City_618,EMEA,Germany,emea_lead@company.com
+620,Metro_619,North America,USA,north_america_lead@company.com
+621,City_620,LATAM,Brazil,latam_lead@company.com
+622,Metro_621,EMEA,Germany,emea_lead@company.com
+623,Metro_622,APAC,Japan,apac_lead@company.com
+624,Metro_623,LATAM,Brazil,latam_lead@company.com
+625,Metro_624,LATAM,Brazil,latam_lead@company.com
+626,City_625,North America,USA,north_america_lead@company.com
+627,Metro_626,EMEA,Germany,emea_lead@company.com
+628,Metro_627,North America,USA,north_america_lead@company.com
+629,Metro_628,North America,USA,north_america_lead@company.com
+630,City_629,APAC,Japan,apac_lead@company.com
+631,City_630,LATAM,Brazil,latam_lead@company.com
+632,Metro_631,EMEA,Germany,emea_lead@company.com
+633,City_632,LATAM,Brazil,latam_lead@company.com
+634,Metro_633,LATAM,Brazil,latam_lead@company.com
+635,City_634,LATAM,Brazil,latam_lead@company.com
+636,Metro_635,North America,USA,north_america_lead@company.com
+637,Metro_636,APAC,Japan,apac_lead@company.com
+638,Metro_637,EMEA,Germany,emea_lead@company.com
+639,Metro_638,LATAM,Brazil,latam_lead@company.com
+640,Town_639,LATAM,Brazil,latam_lead@company.com
+641,City_640,LATAM,Brazil,latam_lead@company.com
+642,City_641,North America,USA,north_america_lead@company.com
+643,Town_642,LATAM,Brazil,latam_lead@company.com
+644,Metro_643,APAC,Japan,apac_lead@company.com
+645,Town_644,LATAM,Brazil,latam_lead@company.com
+646,Town_645,APAC,Japan,apac_lead@company.com
+647,Town_646,LATAM,Brazil,latam_lead@company.com
+648,Metro_647,North America,USA,north_america_lead@company.com
+649,Metro_648,LATAM,Brazil,latam_lead@company.com
+650,Metro_649,EMEA,Germany,emea_lead@company.com
+651,Metro_650,EMEA,Germany,emea_lead@company.com
+652,Metro_651,North America,USA,north_america_lead@company.com
+653,Metro_652,APAC,Japan,apac_lead@company.com
+654,City_653,LATAM,Brazil,latam_lead@company.com
+655,Metro_654,APAC,Japan,apac_lead@company.com
+656,Metro_655,EMEA,Germany,emea_lead@company.com
+657,City_656,LATAM,Brazil,latam_lead@company.com
+658,City_657,LATAM,Brazil,latam_lead@company.com
+659,Metro_658,LATAM,Brazil,latam_lead@company.com
+660,Town_659,North America,USA,north_america_lead@company.com
+661,Metro_660,APAC,Japan,apac_lead@company.com
+662,City_661,LATAM,Brazil,latam_lead@company.com
+663,Metro_662,LATAM,Brazil,latam_lead@company.com
+664,Metro_663,APAC,Japan,apac_lead@company.com
+665,Metro_664,LATAM,Brazil,latam_lead@company.com
+666,City_665,EMEA,Germany,emea_lead@company.com
+667,Metro_666,North America,USA,north_america_lead@company.com
+668,Town_667,LATAM,Brazil,latam_lead@company.com
+669,City_668,North America,USA,north_america_lead@company.com
+670,City_669,EMEA,Germany,emea_lead@company.com
+671,Metro_670,APAC,Japan,apac_lead@company.com
+672,City_671,LATAM,Brazil,latam_lead@company.com
+673,Town_672,LATAM,Brazil,latam_lead@company.com
+674,Metro_673,North America,USA,north_america_lead@company.com
+675,City_674,APAC,Japan,apac_lead@company.com
+676,City_675,EMEA,Germany,emea_lead@company.com
+677,City_676,North America,USA,north_america_lead@company.com
+678,Town_677,LATAM,Brazil,latam_lead@company.com
+679,Metro_678,LATAM,Brazil,latam_lead@company.com
+680,Metro_679,APAC,Japan,apac_lead@company.com
+681,City_680,LATAM,Brazil,latam_lead@company.com
+682,Town_681,LATAM,Brazil,latam_lead@company.com
+683,Metro_682,LATAM,Brazil,latam_lead@company.com
+684,Metro_683,EMEA,Germany,emea_lead@company.com
+685,Metro_684,EMEA,Germany,emea_lead@company.com
+686,City_685,EMEA,Germany,emea_lead@company.com
+687,Metro_686,LATAM,Brazil,latam_lead@company.com
+688,Metro_687,North America,USA,north_america_lead@company.com
+689,City_688,North America,USA,north_america_lead@company.com
+690,City_689,North America,USA,north_america_lead@company.com
+691,City_690,North America,USA,north_america_lead@company.com
+692,Town_691,APAC,Japan,apac_lead@company.com
+693,Metro_692,North America,USA,north_america_lead@company.com
+694,Metro_693,LATAM,Brazil,latam_lead@company.com
+695,City_694,North America,USA,north_america_lead@company.com
+696,Metro_695,LATAM,Brazil,latam_lead@company.com
+697,Town_696,North America,USA,north_america_lead@company.com
+698,City_697,EMEA,Germany,emea_lead@company.com
+699,Metro_698,North America,USA,north_america_lead@company.com
+700,Town_699,EMEA,Germany,emea_lead@company.com
+701,City_700,APAC,Japan,apac_lead@company.com
+702,City_701,APAC,Japan,apac_lead@company.com
+703,Metro_702,EMEA,Germany,emea_lead@company.com
+704,Metro_703,APAC,Japan,apac_lead@company.com
+705,City_704,LATAM,Brazil,latam_lead@company.com
+706,Metro_705,APAC,Japan,apac_lead@company.com
+707,City_706,LATAM,Brazil,latam_lead@company.com
+708,Town_707,APAC,Japan,apac_lead@company.com
+709,Metro_708,EMEA,Germany,emea_lead@company.com
+710,Town_709,LATAM,Brazil,latam_lead@company.com
+711,Metro_710,LATAM,Brazil,latam_lead@company.com
+712,Metro_711,LATAM,Brazil,latam_lead@company.com
+713,Metro_712,LATAM,Brazil,latam_lead@company.com
+714,Metro_713,LATAM,Brazil,latam_lead@company.com
+715,City_714,APAC,Japan,apac_lead@company.com
+716,Metro_715,LATAM,Brazil,latam_lead@company.com
+717,City_716,LATAM,Brazil,latam_lead@company.com
+718,Metro_717,LATAM,Brazil,latam_lead@company.com
+719,Metro_718,North America,USA,north_america_lead@company.com
+720,Metro_719,LATAM,Brazil,latam_lead@company.com
+721,Metro_720,North America,USA,north_america_lead@company.com
+722,Metro_721,APAC,Japan,apac_lead@company.com
+723,Metro_722,LATAM,Brazil,latam_lead@company.com
+724,Metro_723,APAC,Japan,apac_lead@company.com
+725,Town_724,North America,USA,north_america_lead@company.com
+726,Town_725,EMEA,Germany,emea_lead@company.com
+727,City_726,North America,USA,north_america_lead@company.com
+728,Metro_727,EMEA,Germany,emea_lead@company.com
+729,City_728,LATAM,Brazil,latam_lead@company.com
+730,Metro_729,LATAM,Brazil,latam_lead@company.com
+731,Metro_730,LATAM,Brazil,latam_lead@company.com
+732,Metro_731,LATAM,Brazil,latam_lead@company.com
+733,Metro_732,APAC,Japan,apac_lead@company.com
+734,City_733,LATAM,Brazil,latam_lead@company.com
+735,Metro_734,North America,USA,north_america_lead@company.com
+736,Town_735,LATAM,Brazil,latam_lead@company.com
+737,City_736,North America,USA,north_america_lead@company.com
+738,Town_737,LATAM,Brazil,latam_lead@company.com
+739,Metro_738,APAC,Japan,apac_lead@company.com
+740,Metro_739,EMEA,Germany,emea_lead@company.com
+741,City_740,LATAM,Brazil,latam_lead@company.com
+742,Metro_741,LATAM,Brazil,latam_lead@company.com
+743,Town_742,LATAM,Brazil,latam_lead@company.com
+744,Metro_743,North America,USA,north_america_lead@company.com
+745,Town_744,North America,USA,north_america_lead@company.com
+746,Metro_745,APAC,Japan,apac_lead@company.com
+747,City_746,LATAM,Brazil,latam_lead@company.com
+748,Town_747,LATAM,Brazil,latam_lead@company.com
+749,Town_748,LATAM,Brazil,latam_lead@company.com
+750,Metro_749,LATAM,Brazil,latam_lead@company.com
+751,Town_750,LATAM,Brazil,latam_lead@company.com
+752,Metro_751,APAC,Japan,apac_lead@company.com
+753,Town_752,North America,USA,north_america_lead@company.com
+754,City_753,EMEA,Germany,emea_lead@company.com
+755,City_754,EMEA,Germany,emea_lead@company.com
+756,Metro_755,North America,USA,north_america_lead@company.com
+757,City_756,North America,USA,north_america_lead@company.com
+758,Metro_757,EMEA,Germany,emea_lead@company.com
+759,City_758,APAC,Japan,apac_lead@company.com
+760,Metro_759,EMEA,Germany,emea_lead@company.com
+761,Metro_760,LATAM,Brazil,latam_lead@company.com
+762,Metro_761,APAC,Japan,apac_lead@company.com
+763,City_762,EMEA,Germany,emea_lead@company.com
+764,Metro_763,North America,USA,north_america_lead@company.com
+765,Metro_764,North America,USA,north_america_lead@company.com
+766,City_765,LATAM,Brazil,latam_lead@company.com
+767,Metro_766,LATAM,Brazil,latam_lead@company.com
+768,Metro_767,LATAM,Brazil,latam_lead@company.com
+769,Metro_768,LATAM,Brazil,latam_lead@company.com
+770,Metro_769,LATAM,Brazil,latam_lead@company.com
+771,Metro_770,EMEA,Germany,emea_lead@company.com
+772,Metro_771,LATAM,Brazil,latam_lead@company.com
+773,City_772,North America,USA,north_america_lead@company.com
+774,Metro_773,EMEA,Germany,emea_lead@company.com
+775,Metro_774,North America,USA,north_america_lead@company.com
+776,Metro_775,North America,USA,north_america_lead@company.com
+777,Metro_776,EMEA,Germany,emea_lead@company.com
+778,City_777,LATAM,Brazil,latam_lead@company.com
+779,Metro_778,APAC,Japan,apac_lead@company.com
+780,City_779,EMEA,Germany,emea_lead@company.com
+781,Metro_780,APAC,Japan,apac_lead@company.com
+782,Metro_781,LATAM,Brazil,latam_lead@company.com
+783,City_782,LATAM,Brazil,latam_lead@company.com
+784,Metro_783,North America,USA,north_america_lead@company.com
+785,City_784,North America,USA,north_america_lead@company.com
+786,Metro_785,APAC,Japan,apac_lead@company.com
+787,City_786,EMEA,Germany,emea_lead@company.com
+788,City_787,North America,USA,north_america_lead@company.com
+789,City_788,LATAM,Brazil,latam_lead@company.com
+790,Metro_789,LATAM,Brazil,latam_lead@company.com
+791,Metro_790,LATAM,Brazil,latam_lead@company.com
+792,Metro_791,LATAM,Brazil,latam_lead@company.com
+793,Metro_792,North America,USA,north_america_lead@company.com
+794,City_793,EMEA,Germany,emea_lead@company.com
+795,City_794,North America,USA,north_america_lead@company.com
+796,Metro_795,EMEA,Germany,emea_lead@company.com
+797,Metro_796,North America,USA,north_america_lead@company.com
+798,Town_797,EMEA,Germany,emea_lead@company.com
+799,Town_798,North America,USA,north_america_lead@company.com
+800,Town_799,EMEA,Germany,emea_lead@company.com
+801,Town_800,North America,USA,north_america_lead@company.com
+802,City_801,LATAM,Brazil,latam_lead@company.com
+803,Metro_802,North America,USA,north_america_lead@company.com
+804,Town_803,LATAM,Brazil,latam_lead@company.com
+805,Metro_804,APAC,Japan,apac_lead@company.com
+806,Metro_805,LATAM,Brazil,latam_lead@company.com
+807,Metro_806,LATAM,Brazil,latam_lead@company.com
+808,Town_807,LATAM,Brazil,latam_lead@company.com
+809,Metro_808,EMEA,Germany,emea_lead@company.com
+810,City_809,North America,USA,north_america_lead@company.com
+811,Town_810,EMEA,Germany,emea_lead@company.com
+812,Town_811,LATAM,Brazil,latam_lead@company.com
+813,Town_812,LATAM,Brazil,latam_lead@company.com
+814,Metro_813,LATAM,Brazil,latam_lead@company.com
+815,Metro_814,LATAM,Brazil,latam_lead@company.com
+816,Town_815,LATAM,Brazil,latam_lead@company.com
+817,City_816,North America,USA,north_america_lead@company.com
+818,City_817,LATAM,Brazil,latam_lead@company.com
+819,Metro_818,LATAM,Brazil,latam_lead@company.com
+820,City_819,North America,USA,north_america_lead@company.com
+821,City_820,LATAM,Brazil,latam_lead@company.com
+822,City_821,North America,USA,north_america_lead@company.com
+823,Metro_822,LATAM,Brazil,latam_lead@company.com
+824,Metro_823,APAC,Japan,apac_lead@company.com
+825,Metro_824,LATAM,Brazil,latam_lead@company.com
+826,Metro_825,LATAM,Brazil,latam_lead@company.com
+827,Metro_826,LATAM,Brazil,latam_lead@company.com
+828,Metro_827,LATAM,Brazil,latam_lead@company.com
+829,Metro_828,LATAM,Brazil,latam_lead@company.com
+830,Metro_829,EMEA,Germany,emea_lead@company.com
+831,Town_830,LATAM,Brazil,latam_lead@company.com
+832,Town_831,EMEA,Germany,emea_lead@company.com
+833,City_832,APAC,Japan,apac_lead@company.com
+834,Metro_833,APAC,Japan,apac_lead@company.com
+835,Metro_834,North America,USA,north_america_lead@company.com
+836,Metro_835,EMEA,Germany,emea_lead@company.com
+837,City_836,North America,USA,north_america_lead@company.com
+838,Metro_837,LATAM,Brazil,latam_lead@company.com
+839,City_838,LATAM,Brazil,latam_lead@company.com
+840,Metro_839,EMEA,Germany,emea_lead@company.com
+841,City_840,LATAM,Brazil,latam_lead@company.com
+842,City_841,North America,USA,north_america_lead@company.com
+843,Metro_842,North America,USA,north_america_lead@company.com
+844,Metro_843,North America,USA,north_america_lead@company.com
+845,Town_844,LATAM,Brazil,latam_lead@company.com
+846,City_845,LATAM,Brazil,latam_lead@company.com
+847,City_846,LATAM,Brazil,latam_lead@company.com
+848,Metro_847,LATAM,Brazil,latam_lead@company.com
+849,Metro_848,EMEA,Germany,emea_lead@company.com
+850,Metro_849,EMEA,Germany,emea_lead@company.com
+851,Metro_850,LATAM,Brazil,latam_lead@company.com
+852,Town_851,North America,USA,north_america_lead@company.com
+853,Metro_852,North America,USA,north_america_lead@company.com
+854,City_853,North America,USA,north_america_lead@company.com
+855,Metro_854,APAC,Japan,apac_lead@company.com
+856,Metro_855,North America,USA,north_america_lead@company.com
+857,City_856,LATAM,Brazil,latam_lead@company.com
+858,Metro_857,LATAM,Brazil,latam_lead@company.com
+859,City_858,North America,USA,north_america_lead@company.com
+860,Town_859,LATAM,Brazil,latam_lead@company.com
+861,Metro_860,EMEA,Germany,emea_lead@company.com
+862,City_861,North America,USA,north_america_lead@company.com
+863,Metro_862,APAC,Japan,apac_lead@company.com
+864,Metro_863,APAC,Japan,apac_lead@company.com
+865,Town_864,APAC,Japan,apac_lead@company.com
+866,Metro_865,APAC,Japan,apac_lead@company.com
+867,City_866,LATAM,Brazil,latam_lead@company.com
+868,Metro_867,EMEA,Germany,emea_lead@company.com
+869,Metro_868,LATAM,Brazil,latam_lead@company.com
+870,Metro_869,North America,USA,north_america_lead@company.com
+871,City_870,APAC,Japan,apac_lead@company.com
+872,Town_871,North America,USA,north_america_lead@company.com
+873,Town_872,EMEA,Germany,emea_lead@company.com
+874,Metro_873,LATAM,Brazil,latam_lead@company.com
+875,City_874,North America,USA,north_america_lead@company.com
+876,Metro_875,LATAM,Brazil,latam_lead@company.com
+877,Metro_876,LATAM,Brazil,latam_lead@company.com
+878,Metro_877,North America,USA,north_america_lead@company.com
+879,Metro_878,LATAM,Brazil,latam_lead@company.com
+880,Metro_879,APAC,Japan,apac_lead@company.com
+881,City_880,APAC,Japan,apac_lead@company.com
+882,Metro_881,LATAM,Brazil,latam_lead@company.com
+883,City_882,LATAM,Brazil,latam_lead@company.com
+884,City_883,North America,USA,north_america_lead@company.com
+885,Town_884,North America,USA,north_america_lead@company.com
+886,City_885,APAC,Japan,apac_lead@company.com
+887,Metro_886,EMEA,Germany,emea_lead@company.com
+888,Metro_887,EMEA,Germany,emea_lead@company.com
+889,Metro_888,North America,USA,north_america_lead@company.com
+890,Metro_889,North America,USA,north_america_lead@company.com
+891,Metro_890,LATAM,Brazil,latam_lead@company.com
+892,Metro_891,APAC,Japan,apac_lead@company.com
+893,Town_892,LATAM,Brazil,latam_lead@company.com
+894,City_893,LATAM,Brazil,latam_lead@company.com
+895,Town_894,North America,USA,north_america_lead@company.com
+896,Town_895,APAC,Japan,apac_lead@company.com
+897,City_896,LATAM,Brazil,latam_lead@company.com
+898,City_897,EMEA,Germany,emea_lead@company.com
+899,City_898,LATAM,Brazil,latam_lead@company.com
+900,Metro_899,APAC,Japan,apac_lead@company.com
+901,Metro_900,LATAM,Brazil,latam_lead@company.com
+902,Metro_901,APAC,Japan,apac_lead@company.com
+903,Metro_902,LATAM,Brazil,latam_lead@company.com
+904,Metro_903,LATAM,Brazil,latam_lead@company.com
+905,City_904,North America,USA,north_america_lead@company.com
+906,City_905,EMEA,Germany,emea_lead@company.com
+907,Metro_906,LATAM,Brazil,latam_lead@company.com
+908,Metro_907,North America,USA,north_america_lead@company.com
+909,City_908,North America,USA,north_america_lead@company.com
+910,City_909,North America,USA,north_america_lead@company.com
+911,Metro_910,EMEA,Germany,emea_lead@company.com
+912,Metro_911,EMEA,Germany,emea_lead@company.com
+913,Town_912,LATAM,Brazil,latam_lead@company.com
+914,City_913,APAC,Japan,apac_lead@company.com
+915,City_914,LATAM,Brazil,latam_lead@company.com
+916,Town_915,LATAM,Brazil,latam_lead@company.com
+917,Metro_916,LATAM,Brazil,latam_lead@company.com
+918,City_917,North America,USA,north_america_lead@company.com
+919,Metro_918,LATAM,Brazil,latam_lead@company.com
+920,Town_919,LATAM,Brazil,latam_lead@company.com
+921,Metro_920,North America,USA,north_america_lead@company.com
+922,Metro_921,LATAM,Brazil,latam_lead@company.com
+923,Metro_922,North America,USA,north_america_lead@company.com
+924,Town_923,LATAM,Brazil,latam_lead@company.com
+925,City_924,LATAM,Brazil,latam_lead@company.com
+926,Town_925,LATAM,Brazil,latam_lead@company.com
+927,Metro_926,APAC,Japan,apac_lead@company.com
+928,City_927,North America,USA,north_america_lead@company.com
+929,Metro_928,APAC,Japan,apac_lead@company.com
+930,Metro_929,APAC,Japan,apac_lead@company.com
+931,Metro_930,LATAM,Brazil,latam_lead@company.com
+932,Town_931,LATAM,Brazil,latam_lead@company.com
+933,Metro_932,LATAM,Brazil,latam_lead@company.com
+934,Town_933,APAC,Japan,apac_lead@company.com
+935,City_934,North America,USA,north_america_lead@company.com
+936,Metro_935,LATAM,Brazil,latam_lead@company.com
+937,Town_936,LATAM,Brazil,latam_lead@company.com
+938,Metro_937,EMEA,Germany,emea_lead@company.com
+939,Metro_938,EMEA,Germany,emea_lead@company.com
+940,City_939,LATAM,Brazil,latam_lead@company.com
+941,Metro_940,North America,USA,north_america_lead@company.com
+942,Town_941,LATAM,Brazil,latam_lead@company.com
+943,Metro_942,APAC,Japan,apac_lead@company.com
+944,Town_943,North America,USA,north_america_lead@company.com
+945,Town_944,LATAM,Brazil,latam_lead@company.com
+946,City_945,APAC,Japan,apac_lead@company.com
+947,Metro_946,North America,USA,north_america_lead@company.com
+948,Metro_947,LATAM,Brazil,latam_lead@company.com
+949,City_948,LATAM,Brazil,latam_lead@company.com
+950,Metro_949,LATAM,Brazil,latam_lead@company.com
+951,City_950,LATAM,Brazil,latam_lead@company.com
+952,Town_951,North America,USA,north_america_lead@company.com
+953,Metro_952,LATAM,Brazil,latam_lead@company.com
+954,Metro_953,North America,USA,north_america_lead@company.com
+955,Metro_954,EMEA,Germany,emea_lead@company.com
+956,Town_955,LATAM,Brazil,latam_lead@company.com
+957,Metro_956,EMEA,Germany,emea_lead@company.com
+958,Town_957,EMEA,Germany,emea_lead@company.com
+959,City_958,North America,USA,north_america_lead@company.com
+960,City_959,APAC,Japan,apac_lead@company.com
+961,Metro_960,LATAM,Brazil,latam_lead@company.com
+962,Metro_961,North America,USA,north_america_lead@company.com
+963,Metro_962,LATAM,Brazil,latam_lead@company.com
+964,Metro_963,LATAM,Brazil,latam_lead@company.com
+965,City_964,North America,USA,north_america_lead@company.com
+966,Town_965,LATAM,Brazil,latam_lead@company.com
+967,Metro_966,LATAM,Brazil,latam_lead@company.com
+968,Metro_967,North America,USA,north_america_lead@company.com
+969,Metro_968,North America,USA,north_america_lead@company.com
+970,City_969,APAC,Japan,apac_lead@company.com
+971,Metro_970,LATAM,Brazil,latam_lead@company.com
+972,Town_971,LATAM,Brazil,latam_lead@company.com
+973,Metro_972,LATAM,Brazil,latam_lead@company.com
+974,Metro_973,LATAM,Brazil,latam_lead@company.com
+975,Metro_974,LATAM,Brazil,latam_lead@company.com
+976,Metro_975,LATAM,Brazil,latam_lead@company.com
+977,Metro_976,LATAM,Brazil,latam_lead@company.com
+978,Metro_977,APAC,Japan,apac_lead@company.com
+979,City_978,EMEA,Germany,emea_lead@company.com
+980,City_979,LATAM,Brazil,latam_lead@company.com
+981,Town_980,APAC,Japan,apac_lead@company.com
+982,Metro_981,APAC,Japan,apac_lead@company.com
+983,Metro_982,APAC,Japan,apac_lead@company.com
+984,Town_983,North America,USA,north_america_lead@company.com
+985,City_984,LATAM,Brazil,latam_lead@company.com
+986,City_985,LATAM,Brazil,latam_lead@company.com
+987,City_986,North America,USA,north_america_lead@company.com
+988,Metro_987,LATAM,Brazil,latam_lead@company.com
+989,Metro_988,LATAM,Brazil,latam_lead@company.com
+990,Metro_989,APAC,Japan,apac_lead@company.com
+991,Metro_990,LATAM,Brazil,latam_lead@company.com
+992,Metro_991,EMEA,Germany,emea_lead@company.com
+993,Metro_992,EMEA,Germany,emea_lead@company.com
+994,Metro_993,North America,USA,north_america_lead@company.com
+995,Town_994,North America,USA,north_america_lead@company.com
+996,City_995,EMEA,Germany,emea_lead@company.com
+997,Town_996,LATAM,Brazil,latam_lead@company.com
+998,City_997,EMEA,Germany,emea_lead@company.com
+999,Metro_998,LATAM,Brazil,latam_lead@company.com
+1000,Metro_999,LATAM,Brazil,latam_lead@company.com
